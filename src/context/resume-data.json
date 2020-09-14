@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Emmanuel Sekyere",
+    "occupation": "Software Engineer",
+    "description": "I specialize in FullStack Web Development with #React and #TypeScript. #TypeItTillYouMakeIt",
+    "image": "wess.jpg",
+    "bio": "My name is Emmanuel, I'm a FullStack ReactJS Developer. I'm currently learning and building X with TypeScript",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "wc@wesscoby.me",
+    "phone": "+233 548 674 035",
+    "address": {
+      "street": "#9 Mokwe Loop, Nungua",
+      "city": "Accra",
+      "state": "GA",
+      "zip": "23321"
+    },
+    "website": "https://www.wesscoby.me",
+    "resumeDownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/wesscoby",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/wesscoby/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/wesscoby/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/wesscoby",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "A summary of my skill set",
+    "education": [
+      {
+        "school": "University of Ghana",
+        "degree": "BSc. in Information Technology",
+        "graduated": "Not yet",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Dangote Cement Ghana",
+        "title": "Logistics Personnel",
+        "years": "October 2012 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      }
+    ],
+    "skills": [
+      {
+        "name": "TypeScript",
+        "level": "95%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Places App",
+        "category": "An app where users can share places (with image and location) with other users",
+        "image": "places-app-frontend.png",
+        "url": "https://placesapp.ga"
+      },
+      {
+        "title": "Places App API",
+        "category": "API Server for Places App - an app where users can share places (with image and coordinates) with other users",
+        "image": "places-app-backend.png",
+        "url": "https://places-app-backend.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "text": "It is my pleasure to recommend Emmanuel. His performance working as a Logistics Officer for Dangote Cement Ghana proves that he will be a valuable addition to any company",
+      "user": "Mawuli Abiwu"
+    }
+  ]
+}

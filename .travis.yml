@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+- '12'
+cache:
+  directories:
+  - "$HOME/.cache/yarn"
+  - node_modules
+script:
+- yarn build
+notifications:
+  slack:
+    secure: gRrmTCUqKdes3vNIz6EdIZUDOaIsbtIx40ZEOefVMWf9KKLVv8xPijYJhBH4Matow7+VF0q5USlEd4OLqlOlDtpsv5izmV2eX3Kw8xhwG5YKicSpqrvCaxDuNTM63UcpoP5MOyxnO/AhUXa2dO9SK4YJeAvoUV5ZczE/tXaTVsBIH32JXxaxfe0SqMaigyXdKIb7aW5+rGSqs2zsUEVCFDmTV+RuVPqcDpwV9X+oh3hjg1Q4xNQ08GuwEEQmqwswx68uzjDVqSZoDwcMOiKhBc5F4SYWxixQAwsyoCGUgOfuZwU4qGzFGOAN4oZx0r5QomB+K6vCrJ7ooEOuD2OrBpt7bvQpZTtienQw1cM5bjDHx6fcECJVYO07txMCNOYuYseOy8LAWX9dZi1k2ZoZwhviE2oSX5j+nRvmYaF+8eZ2mV8aUWcEj/9Mx0V2vqiBxg12t6+Wb+e5eRBts5+IV/Y5d5yWbOQ/82powTl+6lXW4BXLLWZIO08enqF/UUcxKyOaUz2PHRGzh4TmSIIIA8MnID2+mCt477keVxZq+c4J/X+LeMtA6enbikAuvlsBHq4hh7GTFvSdbHvk7//iJEmrEE6t45VwVctHxbsYFyPoivIy5dH2S/3Rc8zcYUPvJjAsLFh9L7LzeGhfWBoACGxv7VadZ60r63+Eew/5RHo=
