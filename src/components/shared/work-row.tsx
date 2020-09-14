@@ -11,7 +11,7 @@ const WorkItem: FC<Work> = ({ company, description, title, years }) => (
   <div>
     <h3>{company}</h3>
     <p className="info">
-      {title}
+      {title}{' '}
       <span>&bull;</span>{' '}
       <em className="date">{years}</em>
     </p>
