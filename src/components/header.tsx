@@ -39,10 +39,10 @@ const Header: FC = () => {
       </nav>
       <div className="row banner">
         <div className="banner-text">
-          <h1 className="responsive-headline">I'm {name}.</h1>
-          <h3>I'm a {address.city} based
-            <span>{occupation}</span>.
-            {description}.
+        <h1 className="responsive-headline">I'm {name}.{' '}</h1>
+          <h3>An {address.city} based{' '}
+            <span>{occupation}</span><br />
+            {description}
           </h3>
           <hr />
           <NetworkList className="social" networks={social} />
