@@ -19,8 +19,8 @@ const Resume: FC = () => {
         </div>
         <div className="nine columns main-col">
           <p>{skillmessage}</p>
+          <Skills items={skills} />
         </div>
-        <Skills items={skills} />
       </div>
     </section>
   )
