@@ -38,11 +38,12 @@ const ContactForm: FC = () => {
       validationSchema={formSchema}
       onSubmit={ async(
         { name, email, subject, message }: FormSchema,
-        { setSubmitting }
+        { setSubmitting, resetForm }
       ) => {
         setSubmitting(true);
         try {
           MailGunService.send(name, email, subject, message);
+          resetForm(schemaValues as any);
           setSubmitting(false);
           notify('Your message was sent, thank you!', 'success', 5000);
         } catch(error) {

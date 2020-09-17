@@ -13,7 +13,7 @@ const EducationItem: FC<Education> = ({
   <div>
     <h3>{school}</h3>
     <p className="info">
-      {degree} <span>&bull;</span>
+      {degree}{' '}<span>&bull;</span>{' '}
       <em className="date">{graduated}</em>
     </p>
     <p>{description}</p>
@@ -27,7 +27,9 @@ const EducationRow: FC<Props> = ({ items }) => (
     </div>
     <div className="nine columns main-col">
       <div className="row item">
-        {items.map(item => <EducationItem key={item.school} {...item} />)}
+        <div className="twelve columns">
+          {items.map(item => <EducationItem key={item.school} {...item} />)}
+        </div>
       </div>
     </div>
   </div>

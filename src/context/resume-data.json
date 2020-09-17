@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "I specialize in FullStack Web Development with #React and #TypeScript. #TypeItTillYouMakeIt",
     "image": "wess.jpg",
-    "bio": "My name is Emmanuel, I'm a FullStack ReactJS Developer. I'm currently learning and building X with TypeScript",
+    "bio": "I am an ambivert. I love music, arts and photography. I believe strongly in personal development, hence, always learning new things. Currently, I am looking for new career opportunities my current job position cannot provide",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "wc@wesscoby.me",
     "phone": "+233 548 674 035",
@@ -34,19 +34,23 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/wesscoby",
+        "url": "https://github.com/wesscoby",
         "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/wesscoby",
+        "className": "fa fa-twitter"
       }
     ]
   },
   "resume": {
-    "skillmessage": "A summary of my skill set",
     "education": [
       {
         "school": "University of Ghana",
-        "degree": "BSc. in Information Technology",
-        "graduated": "Not yet",
-        "description": "Graduated with Distinction"
+        "degree": "BSc. Information Technology",
+        "graduated": "2021",
+        "description": "I chose to study Information Technology to broaden my knowledge in the field (as I am self-taught) and it's been great so far, I must say. Courses I have aced in include Problem Solving and Programming, Applied IT Programming and Database Fundamentals"
       }
     ],
     "work": [
@@ -54,9 +58,10 @@
         "company": "Dangote Cement Ghana",
         "title": "Logistics Personnel",
         "years": "October 2012 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "description": "Dangote Cement Plc is a Nigerian multinational publicly traded cement manufacturer headquartered in Lagos. The company is engaged in the manufacture, preparation, import, packaging, and distribution of cement and related products in Nigeria and has plants or import terminals in 9 other African countries including Ghana"
       }
     ],
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
     "skills": [
       {
         "name": "TypeScript",
@@ -65,6 +70,10 @@
       {
         "name": "ReactJs",
         "level": "95%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "85%"
       },
       {
         "name": "CSS",
