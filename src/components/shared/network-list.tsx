@@ -8,9 +8,9 @@ interface Props {
   networks: Social[];
 }
 
-const Network: FC<Social> = ({ name, url, className }) => (
+const Network: FC<Social> = ({ url, className }) => (
   <li>
-    <a href={url}>
+    <a href={url} rel="me">
       <i className={className}></i>
     </a>
   </li>
