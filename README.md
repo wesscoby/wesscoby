@@ -1,10 +1,15 @@
 ### Hi there, I'm Emmanuel Sekyere - aka [WessCoby][website] 👋
+![Website](https://img.shields.io/website?label=Website&logo=Internet%20explorer&style=for-the-badge&url=https%3A%2F%2Fwesscoby.me)
+![Website](https://img.shields.io/website?color=2962FF&label=Blog&logo=Hashnode&style=for-the-badge&url=https%3A%2F%2Fblog.wesscoby.me)
+![Twitter Follow](https://img.shields.io/twitter/follow/wesscoby?color=1da1f2&logo=Twitter&style=for-the-badge)
 
 ## I'm an IT Undergrad and FullStack Developer!
-- 🔭 I'm currently learning and building X with [TypeScript][ts]
+- 🔭 I'm currently learning and building stuff with [TypeScript][ts]
 - 🌱 Actually, i'm learning everything 🤣
 - 👯 I'm looking to start a programming blog and collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals:
+  - Contribute more to Open Source projects
+  - Learn [Tailwind Css][tailwind] and build some practical projects
 - ⚡ Fun fact: I love to read and play games
 
 ### Connect with me:
@@ -58,14 +63,35 @@
 
 ---
 
-<img align="left" alt="WessCoby's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wesscoby&show_icons=true&hide_border=true" />
+### Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+➡️ [more...](https://blog.wesscoby.me)
+
+---
+
+<div
+  style="display: flex; flex-direction: column; align-items: start;"
+>
+  <img
+    alt="WessCoby's Github Stats"
+    src="https://wess-rms.vercel.app/api?username=wesscoby&show_icons=true&hide_border=true&count_private=true"
+    style="margin-bottom: 10px"
+  />
+  <img
+    alt="WessCoby's Top Languages"
+    src="https://wess-rms.vercel.app/api/top-langs/?username=wesscoby&hide=css,html&layout=compact&langs_count=10"
+  />
+</div>
+
+
+
 
 [website]: https://wesscoby.me
 [twitter]: https://twitter.com/wesscoby
 [youtube]: https://www.youtube.com/wesscoby
 [instagram]: https://instagram.com/wesscoby
 [linkedin]: https://linkedin.com/in/wesscoby
-
 [git]: https://git-scm.com/
 [github]: https://github.com
 [nodejs]: https://nodejs.dev/
@@ -83,5 +109,6 @@
 [mongodb]: https://www.mongodb.com/
 [sql]: https://www.w3schools.com/sql/
 [mysql]: https://www.mysql.com/
+[tailwind]: https://tailwindcss.com
 
 
