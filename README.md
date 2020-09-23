@@ -1,7 +1,7 @@
 ### Hi there, I'm Emmanuel Sekyere - aka [WessCoby][website] 👋
-![Website](https://img.shields.io/website?label=Website&logo=Internet%20explorer&style=for-the-badge&url=https%3A%2F%2Fwesscoby.me)
-![Website](https://img.shields.io/website?color=2962FF&label=Blog&logo=Hashnode&style=for-the-badge&url=https%3A%2F%2Fblog.wesscoby.me)
-![Twitter Follow](https://img.shields.io/twitter/follow/wesscoby?color=1da1f2&logo=Twitter&style=for-the-badge)
+[![Website](https://img.shields.io/website?label=Website&logo=Internet%20explorer&style=for-the-badge&url=https%3A%2F%2Fwesscoby.me)][website]
+[![Website](https://img.shields.io/website?color=2962FF&label=Blog&logo=Hashnode&style=for-the-badge&url=https%3A%2F%2Fblog.wesscoby.me)][blog]
+[![Twitter Follow](https://img.shields.io/twitter/follow/wesscoby?color=1da1f2&logo=Twitter&style=for-the-badge)][follow]
 
 ## I'm an IT Undergrad and FullStack Developer!
 - 🔭 I'm currently learning and building stuff with [TypeScript][ts]
@@ -88,7 +88,9 @@
 
 
 [website]: https://wesscoby.me
+[blog]: https://blog.wesscoby.me
 [twitter]: https://twitter.com/wesscoby
+[follow]: https://twitter.com/intent/follow?original_referer=https://github.com/wesscoby&screen_name=wesscoby
 [youtube]: https://www.youtube.com/wesscoby
 [instagram]: https://instagram.com/wesscoby
 [linkedin]: https://linkedin.com/in/wesscoby
