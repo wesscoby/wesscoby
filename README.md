@@ -65,6 +65,7 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Github CLI: An Introduction](https://blog.wesscoby.me/github-cli-an-introduction)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more...](https://blog.wesscoby.me)
 
