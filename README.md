@@ -58,6 +58,10 @@
 
 ---
 
+# Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <img align="left" alt="WessCoby's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wesscoby&show_icons=true&hide_border=true" />
 
 [website]: https://wesscoby.me
