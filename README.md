@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/website?label=Website&logo=Internet%20explorer&style=for-the-badge&url=https%3A%2F%2Fwesscoby.com)][website]
-[![Website](https://img.shields.io/website?color=2962FF&label=Blog&logo=Hashnode&style=for-the-badge&url=https%3A%2F%2Fblog.wesscoby.me)][blog]
+[![Website](https://img.shields.io/website?color=2962FF&label=Blog&logo=Hashnode&style=for-the-badge&url=https%3A%2F%2Fblog.wesscoby.com)][blog]
 [![Twitter Follow](https://img.shields.io/twitter/follow/wesscoby?color=1da1f2&logo=Twitter&style=for-the-badge)][follow]
 
 ### Hi there <a href="https://www.wesscoby.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
