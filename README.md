@@ -70,7 +70,7 @@ Welcome to my space, where all the "nothing" happens 😎
 >
   <img
     alt="My Github Stats"
-    src=""
+    src="https://rms.wesscoby.com/api?username=wesscoby&show_icons=true&hide_border=true&count_private=true"
     style="margin-bottom: 10px"
   />
   <img
