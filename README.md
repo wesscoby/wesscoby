@@ -70,12 +70,12 @@ Welcome to my space, where all the "nothing" happens 😎
 >
   <img
     alt="My Github Stats"
-    src="https://rms.wess.link/api?username=wesscoby&show_icons=true&hide_border=true&count_private=true"
+    src=""
     style="margin-bottom: 10px"
   />
   <img
     alt="My Top Languages"
-    src="https://rms.wess.link/api/top-langs/?username=wesscoby&hide=css,html&layout=compact&langs_count=10"
+    src="https://rms.wesscoby.com/api/top-langs/?username=wesscoby&hide=css,html&layout=compact&langs_count=10"
   />
 </div>
 
