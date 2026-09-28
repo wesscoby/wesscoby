@@ -1,112 +1,50 @@
-[![Website](https://img.shields.io/website?label=Website&logo=Internet%20explorer&style=for-the-badge&url=https%3A%2F%2Fwesscoby.com)][website]
-[![Website](https://img.shields.io/website?color=2962FF&label=Blog&logo=Hashnode&style=for-the-badge&url=https%3A%2F%2Fblog.wesscoby.com)][blog]
-[![Twitter Follow](https://img.shields.io/twitter/follow/wesscoby?color=1da1f2&logo=Twitter&style=for-the-badge)][follow]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="WessCoby. Emmanuel Sekyere, FullStack Engineer in Accra. I build web apps, backend systems and tools, then figure out how everything underneath works." width="100%">
+</picture>
 
-### Hi there <a href="https://www.wesscoby.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+I'm Emmanuel Sekyere, a fullstack engineer in Accra. Most of what I write is TypeScript: NestJS and GraphQL on the server, React on the client. When a tool annoys me often enough, I write a smaller one that doesn't. Lately the curiosity runs further down the stack, into the containers, networks and machines the apps actually sit on.
 
-Welcome to my space, where all the "nothing" happens 😎
+**Now:** building Investment Nerds, a Ghana Stock Exchange investing platform that's in beta testing.
 
-- 🔭 I am learning and using [TypeScript][ts] to build cool stuff
-- 🌱 Actually, I am trying to learn everything 🤣
-- 🥅 2022 Goals:
-  - Contribute more to Open Source projects
-  - Actually finish and get my website up and running 😌
-- ⚡ Fun fact: I love to read and play games
+### What I work with
 
-### Connect with me:
+**Languages:** `TypeScript` `JavaScript` `Python`
 
-[<img align="left" alt="Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.2.0/icons/hashnode.svg" />][hashnode]
-[<img align="left" alt="WessCoby | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="WessCoby | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="WessCoby | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+**Backend:** `Node.js` `NestJS` `GraphQL` `Socket.IO` `Better Auth`
 
-<br />
+**Frontend:** `React` `Next.js` `React Native` `Redux Toolkit` `Tailwind CSS` `shadcn/ui`
 
-### Languages and Tools:
+**Data:** `PostgreSQL` `Prisma` `MySQL` `MongoDB` `Redis`
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+**Infra:** `Docker` `Forgejo` `Dokploy`
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+**Tools:** `git` `zsh` `tmux` `VS Code`
 
-[<img align="left" alt="TypeScript" width="26px" src="https://avatars3.githubusercontent.com/u/65012741?s=200&v=4" />][ts]
+### Homelab
 
-[<img align="left" alt="Nest.js" width="26px" src="https://avatars1.githubusercontent.com/u/28507035?s=200&v=4" />][nestjs]
+Wanting to know what sits behind the API is how a web developer ends up with a homelab. Everything I ship runs on infrastructure I own: Forgejo for Git, Dokploy for deploys, and my own S3, mail and analytics. Nobody asked me to run any of this. It started as curiosity, it became a hobby, and it's still what keeps me building.
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+### Writing
 
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphql]
+I write up what I learn at [wesscoby.com/blog](https://wesscoby.com/blog).
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-[<img align="left" alt="Terminal ZSH" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][zsh]
-
-[<img align="left" alt="Terminal ZSH" width="26px" src="https://avatars2.githubusercontent.com/u/12054114?s=200&v=4" />][tmux]
-
-<br />
-<br />
-
----
-
-### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Github CLI: An Introduction](https://blog.wesscoby.com/github-cli-an-introduction)
+- [A Reason I Could Say Out Loud](https://wesscoby.com/blog/a-reason-i-could-say-out-loud)
+- [The Second Test Suite](https://wesscoby.com/blog/the-second-test-suite)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more...](https://blog.wesscoby.com)
 
----
+### Activity
 
-<div
-  style="display: flex; flex-direction: column; align-items: start;"
->
-  <img
-    alt="My Github Stats"
-    src="https://rms.wesscoby.com/api?username=wesscoby&show_icons=true&hide_border=true&count_private=true"
-    style="margin-bottom: 10px"
-  />
-  <img
-    alt="My Top Languages"
-    src="https://rms.wesscoby.com/api/top-langs/?username=wesscoby&hide=css,html&layout=compact&langs_count=10"
-  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://rms.wesscoby.com/api?username=wesscoby&show_icons=true&count_private=true&hide_border=false&border_radius=8&bg_color=121110&title_color=F7F6F2&text_color=A39D94&icon_color=A39D94&ring_color=F15A24&border_color=2E2B28">
+  <img src="https://rms.wesscoby.com/api?username=wesscoby&show_icons=true&count_private=true&hide_border=false&border_radius=8&bg_color=F7F6F2&title_color=141312&text_color=5C5750&icon_color=5C5750&ring_color=F15A24&border_color=E3E0D8" alt="GitHub stats for wesscoby" height="170">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://rms.wesscoby.com/api/top-langs/?username=wesscoby&hide=css,html&layout=compact&langs_count=8&hide_border=false&border_radius=8&bg_color=121110&title_color=F7F6F2&text_color=A39D94&border_color=2E2B28">
+  <img src="https://rms.wesscoby.com/api/top-langs/?username=wesscoby&hide=css,html&layout=compact&langs_count=8&hide_border=false&border_radius=8&bg_color=F7F6F2&title_color=141312&text_color=5C5750&border_color=E3E0D8" alt="Most used languages" height="170">
+</picture>
 
+### Elsewhere
 
-
-
-[website]: https://wesscoby.com
-[blog]: https://blog.wesscoby.com
-[hashnode]: https://hashnode.com/@wesscoby
-[twitter]: https://twitter.com/wesscoby
-[follow]: https://twitter.com/intent/follow?original_referer=https://github.com/wesscoby&screen_name=wesscoby
-[youtube]: https://www.youtube.com/wesscoby
-[instagram]: https://instagram.com/wesscoby
-[linkedin]: https://linkedin.com/in/wesscoby
-[git]: https://git-scm.com/
-[github]: https://github.com
-[nodejs]: https://nodejs.dev/
-[deno]: https://deno.land/
-[vscode]: https://code.visualstudio.com/
-[nestjs]: https://nestjs.com/
-[gatsby]: https://www.gatsbyjs.org/
-[sass]: https://sass-lang.com/
-[js]: https://www.javascript.com/
-[ts]: https://www.typescriptlang.org/
-[tmux]: https://github.com/tmux/tmux/wiki
-[react]: https://reactjs.org/
-[graphql]: https://graphql.org/
-[zsh]: https://ohmyz.sh/
-[mongodb]: https://www.mongodb.com/
-[sql]: https://www.w3schools.com/sql/
-[mysql]: https://www.mysql.com/
-[tailwind]: https://tailwindcss.com
-
-
+[wesscoby.com](https://wesscoby.com) · [Blog](https://wesscoby.com/blog) · [X](https://x.com/wesscoby) · [LinkedIn](https://linkedin.com/in/wesscoby)
