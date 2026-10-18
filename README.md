@@ -34,6 +34,15 @@ I write up what I learn at [wesscoby.com/blog](https://wesscoby.com/blog).
 - [The Second Test Suite](https://wesscoby.com/blog/the-second-test-suite)
 <!-- BLOG-POST-LIST:END -->
 
+### Quote of the moment
+
+<a href="https://qotm.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://qotm.dev/today.svg">
+    <img src="https://qotm.dev/today.svg?theme=light" alt="Quote of the moment from qotm.dev">
+  </picture>
+</a>
+
 ### Activity
 
 <picture>
