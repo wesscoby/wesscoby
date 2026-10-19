@@ -30,6 +30,7 @@ Wanting to know what sits behind the API is how a web developer ends up with a h
 I write up what I learn at [wesscoby.com/blog](https://wesscoby.com/blog).
 
 <!-- BLOG-POST-LIST:START -->
+- [Seven Out of a Hundred and Ten](https://wesscoby.com/blog/seven-out-of-a-hundred-and-ten)
 - [A Reason I Could Say Out Loud](https://wesscoby.com/blog/a-reason-i-could-say-out-loud)
 - [The Second Test Suite](https://wesscoby.com/blog/the-second-test-suite)
 <!-- BLOG-POST-LIST:END -->
