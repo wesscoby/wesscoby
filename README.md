@@ -30,11 +30,11 @@ Wanting to know what sits behind the API is how a web developer ends up with a h
 I write up what I learn at [wesscoby.com/blog](https://wesscoby.com/blog).
 
 <!-- BLOG-POST-LIST:START -->
+- [The Page That Didn&#39;t Update](https://wesscoby.com/blog/the-page-that-didnt-update)
 - [An MCP Server for One Person](https://wesscoby.com/blog/an-mcp-server-for-one-person)
 - [What the Hell Are AI Software Factories?](https://wesscoby.com/blog/what-the-hell-are-ai-software-factories)
 - [Code Is No Longer the Product](https://wesscoby.com/blog/code-is-no-longer-the-product)
 - [Seven Out of a Hundred and Ten](https://wesscoby.com/blog/seven-out-of-a-hundred-and-ten)
-- [A Reason I Could Say Out Loud](https://wesscoby.com/blog/a-reason-i-could-say-out-loud)
 <!-- BLOG-POST-LIST:END -->
 
 ### Quote of the moment
